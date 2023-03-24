@@ -2,7 +2,7 @@
 
 #1. 이미지가 저장된 폴더의 문자열 변수 생성
 
-srcPath = '/Users/jeonga/python_practice/train/'
+srcPath = '/Users/jeonga/python_practice/data/train/'
 
 import os
 import glob
